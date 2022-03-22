@@ -1,0 +1,5 @@
+- 👋 Helloo I'm Cikang
+- 👀 I’m interested in Web Development and Desktop Development
+- 🌱 I’m currently learning C++ and GoLang!!
+- 💞️ I’m looking to collaborate on nothing yet I'm still an intermediate
+- 📫 How to reach me my email
